@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d20da59d.chunk.css",
-    "main.js": "/static/js/main.5f76b5fc.chunk.js",
-    "main.js.map": "/static/js/main.5f76b5fc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.43f6c1ed.js",
-    "runtime-main.js.map": "/static/js/runtime-main.43f6c1ed.js.map",
-    "static/js/2.4a92d188.chunk.js": "/static/js/2.4a92d188.chunk.js",
-    "static/js/2.4a92d188.chunk.js.map": "/static/js/2.4a92d188.chunk.js.map",
-    "static/js/3.dc164b60.chunk.js": "/static/js/3.dc164b60.chunk.js",
-    "static/js/3.dc164b60.chunk.js.map": "/static/js/3.dc164b60.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d20da59d.chunk.css.map": "/static/css/main.d20da59d.chunk.css.map",
-    "static/js/2.4a92d188.chunk.js.LICENSE.txt": "/static/js/2.4a92d188.chunk.js.LICENSE.txt"
+    "main.css": "/simonprovost.github.io/my_website/static/css/main.d20da59d.chunk.css",
+    "main.js": "/simonprovost.github.io/my_website/static/js/main.7a7ea2f4.chunk.js",
+    "main.js.map": "/simonprovost.github.io/my_website/static/js/main.7a7ea2f4.chunk.js.map",
+    "runtime-main.js": "/simonprovost.github.io/my_website/static/js/runtime-main.d8f23f51.js",
+    "runtime-main.js.map": "/simonprovost.github.io/my_website/static/js/runtime-main.d8f23f51.js.map",
+    "static/js/2.4a92d188.chunk.js": "/simonprovost.github.io/my_website/static/js/2.4a92d188.chunk.js",
+    "static/js/2.4a92d188.chunk.js.map": "/simonprovost.github.io/my_website/static/js/2.4a92d188.chunk.js.map",
+    "static/js/3.dc164b60.chunk.js": "/simonprovost.github.io/my_website/static/js/3.dc164b60.chunk.js",
+    "static/js/3.dc164b60.chunk.js.map": "/simonprovost.github.io/my_website/static/js/3.dc164b60.chunk.js.map",
+    "index.html": "/simonprovost.github.io/my_website/index.html",
+    "static/css/main.d20da59d.chunk.css.map": "/simonprovost.github.io/my_website/static/css/main.d20da59d.chunk.css.map",
+    "static/js/2.4a92d188.chunk.js.LICENSE.txt": "/simonprovost.github.io/my_website/static/js/2.4a92d188.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.43f6c1ed.js",
+    "static/js/runtime-main.d8f23f51.js",
     "static/js/2.4a92d188.chunk.js",
     "static/css/main.d20da59d.chunk.css",
-    "static/js/main.5f76b5fc.chunk.js"
+    "static/js/main.7a7ea2f4.chunk.js"
   ]
 }
