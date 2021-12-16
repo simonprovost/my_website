@@ -43,7 +43,8 @@ class App extends Component<{}> {
                 <div className="top_left_corner_tag">
                   <p className="top_left_corner_tag_title">At the moment, busy</p>
                 </div>
-                <img src="./resources/rope.png" className="special_rope"  alt="rope"/>
+                <img src="./resources/rope_2.png" className="special_rope_left"  alt="rope"/>
+                <img src="./resources/rope_2.png" className="special_rope_right"  alt="rope"/>
               </div>
             </div>
           </div>
@@ -85,7 +86,50 @@ class App extends Component<{}> {
             </div>
           </div>
           <div className="body_right_side">
-            <div className="body_right_side_card">
+            <div className="body_right_side_card_content">
+              <div className="body_right_side_card_content_card">
+                <div className="body_right_side_card_content_card_profile_pic">
+                  <img src="./resources/simon-provost-02-min.jpg" alt="profile_pic"/>
+                </div>
+                <div className="body_right_side_card_content_card_ellipse">
+                  <p className="body_right_side_card_content_card_title">ML/RESEARCH</p>
+                </div>
+                <p className="body_right_side_card_content_card_name">Simon provost</p>
+                <p className="body_right_side_card_content_card_location">Paris, France</p>
+              </div>
+
+              <div className="body_right_side_tags_container">
+                <div className="body_right_side_tags_common body_right_side_tags_machinelearning">
+                  <img src="./resources/machinelearning.png" className="body_right_side_tags_icon" alt="ML"/>
+                  <p className="body_right_side_tags_common_text">Machine Learning</p>
+                </div>
+                <div className="body_right_side_tags_common body_right_side_tags_automl">
+                  <img src="./resources/automl.png" className="body_right_side_tags_icon" alt="ML"/>
+                  <p className="body_right_side_tags_common_text">AutoML</p>
+                </div>
+                <div className="body_right_side_tags_common body_right_side_tags_datamining">
+                  <img src="./resources/datamining.png" className="body_right_side_tags_icon" alt="ML"/>
+                  <p className="body_right_side_tags_common_text">Data Mining</p>
+                </div>
+                <div className="body_right_side_tags_common body_right_side_tags_UIUX">
+                  <img src="./resources/uiux.png" className="body_right_side_tags_icon" alt="ML"/>
+                  <p className="body_right_side_tags_common_text">UI.UX</p>
+                </div>
+                <div className="body_right_side_tags_common body_right_side_tags_research">
+                  <img src="./resources/research.png" className="body_right_side_tags_icon" alt="ML"/>
+                  <p className="body_right_side_tags_common_text">Research</p>
+                </div>
+                <div className="body_right_side_tags_common body_right_side_tags_MLOPS">
+                  <img src="./resources/mlops.png" className="body_right_side_tags_icon" alt="ML"/>
+                  <p className="body_right_side_tags_common_text">MLOps</p>
+                </div>
+                <div className="body_right_side_tags_common body_right_side_tags_devops">
+                  <img src="./resources/devops.png" className="body_right_side_tags_icon" alt="ML"/>
+                  <p className="body_right_side_tags_common_text">DevOps</p>
+                </div>
+              </div>
+            </div>
+            {/*<div className="body_right_side_card">
               <div className="body_right_side_card_content">
                 <div className="body_right_side_card_content_profile_picture">
                   <img src="./resources/simon-provost-02-min.jpg"  alt="profile_pic"/>
@@ -96,10 +140,10 @@ class App extends Component<{}> {
                 <p className="body_right_side_card_content_profile_picture_name">Simon provost</p>
                 <p className="body_right_side_card_content_profile_picture_location">Paris, France</p>
               </div>
-              {/* <div className="frame-1-4">
+               <div className="frame-1-4">
                 <p className="text-7">⚙️ Machine Learning</p>
-              </div>*/}
-            </div>
+              </div>
+          </div>*/}
           </div>
         </div>
         <div className="core_body_bottom_section">
