@@ -17,6 +17,8 @@ class App extends Component<{}> {
       })
     })
     this.setState({ projects: Projects.map((data) => data), socials})
+
+    document.title = "Simon Provost / Official Website"
   }
 
   openLink = (link) => {
@@ -64,9 +66,7 @@ class App extends Component<{}> {
               </p>
               <div className="body_left_side_description_content">
                 <p className="body_left_side_description_content_text">My interest in <b>Computer Science</b> and <b>problem solving</b> led me to seek a graduate degree
-                  in Advanced Computer Science and Research last year, where I acquired a critical interest in <b>research</b> and
-                  <b>machine learning</b> while achieving the highest honour, a distinction. I developed advanced analytical approaches and
-                  <b>strong programming</b> abilities during my undergraduate studies in France, earning me another distinction degree from
+                  in Advanced Computer Science and Research last year, where I acquired a critical interest in <b>research</b> and <b>machine learning</b> while achieving the highest honour, a distinction. I developed advanced analytical approaches and <b>strong programming</b> abilities during my undergraduate studies in France, earning me another distinction degree from
                   the final jury. By integrating research with machine learning, I wish to discover previously uncharted areas and empower the
                   way Computer Science is perceived today.</p>
 
@@ -129,21 +129,6 @@ class App extends Component<{}> {
                 </div>
               </div>
             </div>
-            {/*<div className="body_right_side_card">
-              <div className="body_right_side_card_content">
-                <div className="body_right_side_card_content_profile_picture">
-                  <img src="./resources/simon-provost-02-min.jpg"  alt="profile_pic"/>
-                </div>
-                <div className="body_right_side_card_content_profile_picture_ellipse">
-                  <p className="body_right_side_card_content_profile_picture_ellipse_title">ML/RESEARCH</p>
-                </div>
-                <p className="body_right_side_card_content_profile_picture_name">Simon provost</p>
-                <p className="body_right_side_card_content_profile_picture_location">Paris, France</p>
-              </div>
-               <div className="frame-1-4">
-                <p className="text-7">⚙️ Machine Learning</p>
-              </div>
-          </div>*/}
           </div>
         </div>
         <div className="core_body_bottom_section">
