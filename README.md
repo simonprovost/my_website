@@ -1,6 +1,6 @@
 # My Website
 
-The following repository is the website available on my github io pages.
+The following repository is the website available on my github io pages. Or available with my personal-domain: https://simonprovost.eu
 
 ## Available Scripts
 
