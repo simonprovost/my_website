@@ -1,6 +1,14 @@
 {
   "Projects": [
     {
+      "path_image": "./resources/Projects/Project_Publication_1.png",
+      "hyperlink": "https://www.sciencedirect.com/science/article/abs/pii/S0266435622002698"
+    },
+    {
+      "path_image": "./resources/Projects/Project_13.png",
+      "hyperlink": "https://medium.com/mlearning-ai/introduction-to-automated-machine-learning-with-auto-sklearn-%EF%B8%8F-c2ee0b8ff3c6"
+    },
+    {
       "path_image": "./resources/Projects/Project_2.png",
       "hyperlink": "https://medium.com/mlearning-ai/how-to-use-its-own-base-learner-to-improve-diversity-deep-forest-model-a-novel-deep-learning-9200165e2a2e"
     },
@@ -57,10 +65,13 @@
       "Medium": "http://simon1-provost.medium.com"
     },
     {
-      "Mail": "mailto:simon1.provost@epitech.eu"
+      "Mail": "mailto:sgp28@kent.ac.uk"
     },
     {
       "Github": "http://github.com/simonprovost/"
+    },
+    {
+      "Scholar": "https://scholar.google.com/citations?user=Lv_LddYAAAAJ"
     }
   ]
 }
